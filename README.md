@@ -2,7 +2,8 @@
 
 Explore the HR Analytics dashboard interactively.
 
-**[Open Interactive Dashboard](YOUR_POWER_BI_PUBLIC_URL)**
+**[Open Interactive Dashboard](<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/200a561b-b0b1-4c80-88e8-efd3a767babd" />
+)**
 
 ### Dashboard Features
 - Workforce overview and headcount analysis
